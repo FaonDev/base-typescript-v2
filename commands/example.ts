@@ -1,4 +1,4 @@
-import { ChatInputCommandInteraction } from 'discord.js'
+import Discord, { ChatInputCommandInteraction } from 'discord.js'
 
 export default {
     name: 'example', description: '...',
